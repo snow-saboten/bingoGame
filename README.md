@@ -1,4 +1,7 @@
 <samp>
-# bingoGame
-This is a bingogame for a player.  
+
+# BingoGame
+
+This is a bingoGame for a player.
+
 </samp>
